@@ -1,0 +1,15 @@
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\bin\Debug\net6.0\Exercise 2.exe
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\bin\Debug\net6.0\Exercise 2.deps.json
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\bin\Debug\net6.0\Exercise 2.runtimeconfig.json
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\bin\Debug\net6.0\Exercise 2.dll
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\bin\Debug\net6.0\Exercise 2.pdb
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.AssemblyReference.cache
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.AssemblyInfo.cs
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.dll
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\refint\Exercise 2.dll
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.pdb
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\Exercise 2.genruntimeconfig.cache
+C:\Users\Upper\Desktop\C# Hometask\Hometask c# (7)\Exercise 2\obj\Debug\net6.0\ref\Exercise 2.dll
